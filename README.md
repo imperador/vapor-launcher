@@ -1,5 +1,5 @@
 # Vapor Launcher releases
-This is just for releases. Do not open issues here.
+This is just for releases
 
 ```ini
 [ FAQ ]
