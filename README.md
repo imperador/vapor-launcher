@@ -1,4 +1,9 @@
 # Vapor Launcher releases
+![Release](https://img.shields.io/github/v/release/imperador/vapor-launcher) [![Discord](https://img.shields.io/discord/935544748687622184?style=flat-square&label=Discord&color=%237289da)](https://discord.gg/DT4WrmypfS) ![q](https://img.shields.io/badge/-Qt6-66B036?logo=qt&logoColor=white&style=flat-square) ![c](https://img.shields.io/badge/-C++-00599C?logo=c&logoColor=white&style=flat-square) ![k](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
+
+
+
+
 This is just for releases
 
 ```ini
